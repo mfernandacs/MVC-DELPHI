@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/05/02 21:03:25.000.159,D:\GSOFT\PROJETOS\Utilitarios\DevTreinamento\Sistema\MVC\Gsoft.Treinamento.IMC.View.Menu.dfm=C:\Users\AnaLu Randis\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/05/02 21:03:25.000.159,D:\GSOFT\PROJETOS\Utilitarios\DevTreinamento\Sistema\MVC\Gsoft.Treinamento.IMC.View.Menu.pas=C:\Users\AnaLu Randis\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/02 21:07:23.000.112,D:\GSOFT\PROJETOS\Utilitarios\DevTreinamento\Sistema\MVC\IMC.dproj=C:\Users\AnaLu Randis\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/05/02 21:07:41.000.689,D:\GSOFT\PROJETOS\Utilitarios\DevTreinamento\Sistema\MVC\Gsoft.IMC.View.Menu.pas=D:\GSOFT\PROJETOS\Utilitarios\DevTreinamento\Sistema\MVC\Gsoft.Treinamento.IMC.View.Menu.pas</Transaction>
+    <Transaction>2021/05/02 21:07:41.000.689,D:\GSOFT\PROJETOS\Utilitarios\DevTreinamento\Sistema\MVC\Gsoft.IMC.View.Menu.dfm=D:\GSOFT\PROJETOS\Utilitarios\DevTreinamento\Sistema\MVC\Gsoft.Treinamento.IMC.View.Menu.dfm</Transaction>
+    <Transaction>2021/05/02 21:26:40.000.621,D:\GSOFT\PROJETOS\Utilitarios\DevTreinamento\Sistema\MVC\Gsoft.IMC.Model.Pessoa.pas=D:\GSOFT\PROJETOS\Utilitarios\DevTreinamento\Sistema\MVC\Unit1.pas</Transaction>
+    <Transaction>2021/05/02 21:44:59.000.454,D:\GSOFT\PROJETOS\Utilitarios\DevTreinamento\Sistema\MVC\Gsoft.IMC.DAO.Conexao.dfm=D:\GSOFT\PROJETOS\Utilitarios\DevTreinamento\Sistema\MVC\Unit1.dfm</Transaction>
+    <Transaction>2021/05/02 21:52:21.000.358,D:\GSOFT\PROJETOS\Utilitarios\DevTreinamento\Sistema\MVC\DAO\Gsoft.IMC.DAO.Pessoa.dfm=D:\GSOFT\PROJETOS\Utilitarios\DevTreinamento\Sistema\MVC\Unit1.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="DAO"/>
+    <File Path="DAO\Gsoft.IMC.DAO.Pessoa.pas"/>
+    <File Path="DAO\Gsoft.IMC.DAO.Pessoa.dfm"/>
+    <File Path="DAO\Gsoft.IMC.DAO.Conexao.pas"/>
+    <File Path="DAO\Gsoft.IMC.DAO.Conexao.dfm"/>
+    <File Path="Model"/>
+    <File Path="Model\Gsoft.IMC.Model.Pessoa.pas"/>
+    <File Path="View"/>
+    <File Path="View\Gsoft.IMC.View.Menu.pas"/>
+    <File Path="View\Gsoft.IMC.View.Menu.dfm"/>
+    <File Path="View\Gsoft.IMC.Pessoa.View.Consulta.pas"/>
+    <File Path="View\Gsoft.IMC.Pessoa.View.Consulta.dfm"/>
+    <File Path="View\Gsoft.IMC.View.Tabela.pas"/>
+    <File Path="View\Gsoft.IMC.View.Tabela.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
